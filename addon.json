@@ -2,5 +2,5 @@
 	"title": "Beatrun x RagMod Fix",
 	"type": "tool",
 	"tags": ["fun", "realism"],
-	"ignore": ["*.psd", "*.vcproj", "*.svn*", "*.md"]
+	"ignore": ["*.psd", "*.vcproj", "*.svn*", "*.git*", "*.md", "LICENSE*"]
 }

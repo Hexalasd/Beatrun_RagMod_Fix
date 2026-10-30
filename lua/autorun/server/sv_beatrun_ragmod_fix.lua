@@ -1,5 +1,5 @@
 
--- idk if this works lmao
+-- idk man
 
 if engine.ActiveGamemode() ~= "beatrun" then return end
 
